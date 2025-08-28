@@ -1,0 +1,10 @@
+let A = parseFloat(prompt("Digite o valor de A:"));
+let B = parseFloat(prompt("Digite o valor de B:"));
+let soma = A + B;
+let subtracao = A - B;
+let multiplicacao = A * B;
+let divisao = A / B;
+console.log("Soma: " + soma);
+console.log("Subtração: " + subtracao);
+console.log("Multiplicação: " + multiplicacao);
+console.log("Divisão: " + divisao);
